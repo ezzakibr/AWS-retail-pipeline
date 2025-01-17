@@ -1,9 +1,9 @@
-# Retail Analytics Data Pipeline
+# 🛍️ Retail Analytics Data Pipeline
 
-## Project Overview
+## 🎯 Project Overview
 A comprehensive ETL (Extract, Transform, Load) pipeline built on AWS cloud services for retail analytics. This project processes retail transaction data, implements a star schema for efficient analytics, and provides business insights through interactive dashboards.
 
-## Business Context
+## 💡 Business Context
 The pipeline processes retail data including:
 - Customer information
 - Product details
@@ -39,7 +39,7 @@ The pipeline processes retail data including:
    - Interactive visualizations
    - Business metrics
 
-## Data Model
+## 📊 Data Model
 
 ### Source Data
 - customers.csv
@@ -55,7 +55,7 @@ The pipeline processes retail data including:
   - dim_products (product information)
   - dim_date (time-based analysis)
 
-## ETL Pipeline
+## ⚙️ ETL Pipeline
 
 ### Airflow DAG Tasks
 1. **check_s3_files**
@@ -79,7 +79,7 @@ The pipeline processes retail data including:
    - Exports transformed data
    - Maintains processed data zone
 
-## Analytics & Dashboards
+## 📈 Analytics & Dashboards
 
 ### Sales Analytics
 - Total revenue over time
