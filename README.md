@@ -89,6 +89,6 @@ The pipeline processes retail data including:
 - Top customers
 - Sales by days of the week
 
-![Dashboard](Retail Dashboard-1.png)
+![Dashboard](Retail-dashboard.png)
 
 
