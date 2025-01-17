@@ -84,21 +84,11 @@ The pipeline processes retail data including:
 
 ## 📈 Analytics & Dashboards
 
-### Sales Analytics
-- Total revenue over time
+- Total revenue per category over time
 - Sales by product category
-- Top selling products
+- Top customers
+- Sales by days of the week
 
-### Customer Insights
-- Top spending customers
-- Purchase patterns
-- Customer segmentation
+  ![Dashboard](Retail Dashboard-1.png)
 
-### Time-Based Analysis
-- Day of week analysis
-- Weekend vs weekday comparison
-- Seasonal trends
 
-  ![Dashboard](Retail Dashboard.pdf)
-
-## Project Structure
