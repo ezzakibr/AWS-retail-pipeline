@@ -9,7 +9,8 @@ The pipeline processes retail data including:
 - Product details
 - Sales transaction
 
-## Technical Architecture
+## 🏗️ Technical Architecture
+![Architecture](retail_etl_arch.png)
 
 ### Data Flow
 1. **Data Generation Layer**
@@ -58,6 +59,8 @@ The pipeline processes retail data including:
 ## ⚙️ ETL Pipeline
 
 ### Airflow DAG Tasks
+![DAG](dag.png)
+
 1. **check_s3_files**
    - Validates presence of source files
    - Ensures data completeness
@@ -95,5 +98,7 @@ The pipeline processes retail data including:
 - Day of week analysis
 - Weekend vs weekday comparison
 - Seasonal trends
+
+  ![Dashboard](Retail Dashboard.pdf)
 
 ## Project Structure
